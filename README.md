@@ -1,4 +1,4 @@
-# Ejercicios-_de-_histogramas_y_boxplots-Core-
+# Ejercicios-_de-_histogramas_y_boxplots(Core)
 
 Acerca del conjunto de datos
 Contexto
